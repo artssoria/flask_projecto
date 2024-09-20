@@ -70,7 +70,7 @@ Este es un proyecto básico de Flask que utiliza SQLAlchemy para manejar la base
 ## Estructura del Proyecto
 
 La estructura básica del proyecto es la siguiente:
-
+```bash
 flask_projecto/
 ├── app.py          # Archivo principal de la aplicación Flask
 ├── models.py       # Definición de modelos SQLAlchemy
@@ -82,5 +82,5 @@ flask_projecto/
 |   ├── style.css
 ├── env/            # Entorno virtual 
 └── README.md       # Este archivo
-
+```
 
